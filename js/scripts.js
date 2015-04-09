@@ -5,12 +5,13 @@ var convert = function(input) {
     var total = 0;
 
     while(input_array.length > 0) {
-        if( input_array[0] === 1) {
+        if( parseInt(input_array[0]) === 1) {
         decimal_array.push(Math.pow(2, index));
         input_array.shift();
         index += 1
     } else {
-
+        input_array.shift();
+        index += 1
     }
     }
 
