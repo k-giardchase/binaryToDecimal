@@ -1,22 +1,26 @@
 ##Developers
-Kyle Giard-Chase, Jonathan Lin,
+Kyle Giard-Chase, Jonathan Lin
 
 ##Date
 April 8 2015
 
 
-
 ##Description
-This app will accept a string of binary numbers and convert those numbers to decmial
+This app will accept a string of binary numbers and convert those numbers to decimal notation.
+
+##Use and Editing
+To use the app, <br>
+1. Clone the repository. `git clone https://github.com/k-giardchase/binaryToDecimal.git`<br>
+2. Change directories into the folder `cd binaryToDecimal`<br>
+3. In the top level of the project folder, open index.html in your web browser.
 
 ##Technologies Used
-Javascript
-Mocha with Chai library
-HTML
-CSS
-BDD
+JavaScript <br>
+<a href='https://jquery.com/download/'>jQuery-1.11.2</a> <br>
+<a href='http://mochajs.org/'>Mocha</a> <br>
+<a href='http://chaijs.com/'>Chai</a><br><br>
 
-##Copyright (c) 2015 James Nielsen, Jonathan Lin, Connor Abdelnoor
+##Copyright (c) 2015 Kyle Giard-Chase & Jonathan Lin
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
